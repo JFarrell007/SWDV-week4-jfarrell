@@ -1,6 +1,3 @@
-function thePrompt() {
-    prompt("Enter username:", "");
-}
 function createForm() {
     var login = document.getElementById("login_form");
     var loginForm = document.createElement('form');
